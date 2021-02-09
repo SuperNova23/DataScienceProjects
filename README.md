@@ -1,6 +1,6 @@
 # DataScienceProjects
 
-# Project 1:End-to-End Multi-class Breed Classification
+# Project 1: End-to-End Multi-class Breed Classification
 This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub
 
 ### 1. Problem
