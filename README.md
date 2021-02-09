@@ -1,6 +1,26 @@
 # DataScienceProjects
 
-# Project 1: Predicting Heart Disease Using Machine Learning 
+# Project 1:End-to-End Multi-class Breed Classification
+This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub
+
+### 1. Problem
+Identifying the breed of a dog given an image of a dog
+
+When I am at a friends house and take a photo of their dog, I want to know what breed of dog it is.
+
+### 2. Data
+The Data we are using is from Kaggle's dog breed identification compitition https://www.kaggle.com/c/dog-breed-identification/data?select=test
+
+### 3. Evaluation
+The evaluation is a file with a prediction probablities for each dog breed of each test image
+
+### 4. Features
+Some information about the data: *We're dealing with images(unstructured data) so it's probably beest we use deep learning/transfer learning.
+
+There are around 10,000 + images in the training set.(these images have labels)
+There are arouind 10,000 plus images in the test set.(these images have no labels because we want to predict them)
+
+# Project 2: Predicting Heart Disease Using Machine Learning 
 
 This notebook liiks into various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or nmot someone has heart disease based on their medical attributes 
 
@@ -32,7 +52,7 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf
 
 This is where you'll get different information about each of the features in your data. 
 
-# Project 2: Predicting The Sales Price of Bulldozers Using Machine Learning¶
+# Project 3: Predicting The Sales Price of Bulldozers Using Machine Learning
 
 In this notebook, we are going to go through an example machine learning project with the goal of predicting the sale price of bulldozers
 
