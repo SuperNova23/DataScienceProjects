@@ -1,6 +1,6 @@
 # DataScienceProjects
 
-# Project 1: End-to-End Multi-class Breed Classification
+# Project 1: End-to-End Multi-Class Breed Classification
 This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub
 
 ### 1. Problem
@@ -22,7 +22,7 @@ There are arouind 10,000 plus images in the test set.(these images have no label
 
 # Project 2: Predicting Heart Disease Using Machine Learning 
 
-This notebook liiks into various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or nmot someone has heart disease based on their medical attributes 
+This notebook liiks into various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes 
 
 We're going to take the following approach:
 1. Problem Definition 
